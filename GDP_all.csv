@@ -1,0 +1,31 @@
+2001,2002,2003,2004,2005,2006,2007,2008,2009,_Institutional,industry,OBJECTID
+273355,264883,271957,276448,295811,309034,316837,303803,295852,"Corporations, non-profit institutions and households",Agriculture and forestry,0
+6532,5119,4765,5246,5751,6249,6181,5363,5759,"Corporations, non-profit institutions and households",Fishing,1
+4915,5036,5213,5195,5334,5554,6272,6453,6179,"Corporations, non-profit institutions and households",Mining and quarrying,2
+99777,99858,105822,110544,115698,122953,130673,135291,138003,"Corporations, non-profit institutions and households",Manufacturing,3
+18158,22237,25638,26353,26082,25724,28313,29922,28975,"Corporations, non-profit institutions and households",Electricity and water supply,4
+28158,27376,27496,28504,30694,32412,34810,37798,43432,"Corporations, non-profit institutions and households",Construction,5
+93531,91219,92604,100486,106095,118361,131754,138051,140096,"Corporations, non-profit institutions and households","Wholesale and retail trade, repairs",6
+11864,12425,9899,13741,15572,17894,20814,13298,18993,"Corporations, non-profit institutions and households",Hotels and restaurants,7
+88762,96974,100387,107266,117183,130510,150109,155961,165723,"Corporations, non-profit institutions and households","Transport, and communication",8
+42124,41443,42064,42657,45030,47170,50306,51659,54043,"Corporations, non-profit institutions and households",Financial intermediation,9
+28530,29629,30780,31987,33250,34575,35964,37420,38947,"Corporations, non-profit institutions and households","Dwellings, owner occupied and rented",10
+29450,30142,30401,31076,31960,33206,34275,35457,36073,"Corporations, non-profit institutions and households",Other real estate and business services,11
+4977,5469,7046,7467,8389,9494,9480,11285,9709,"Corporations, non-profit institutions and households",Education,12
+13994,14428,14902,15714,16358,17038,17862,18664,19687,"Corporations, non-profit institutions and households",Health and social work,13
+39600,40632,40594,42004,43082,45114,46900,48304,50477,"Corporations, non-profit institutions and households","Other community, social and personal services",14
+3705,3780,3855,3932,4011,4091,4173,4256,4342,"Corporations, non-profit institutions and households",Private households with employed persons,15
+-11772,-10665,-10315,-10800,-11261,-11835,-12174,-10484,-12762,"Corporations, non-profit institutions and households",Less: Financial services indirectly measured,16
+775662,779986,803109,837818,889039,947544,1012549,1022503,1043528,"Corporations, non-profit institutions and households",Total value added at basic prices,17
+4237,4188,4132,4070,3986,3892,3587,3553,3597,General Government,Agriculture and forestry,18
+1513,1512,1436,1525,1780,1767,1689,1695,1656,General Government,Water supply,19
+3670,3838,4034,4427,4708,5237,5595,5936,6461,General Government,Construction,20
+4169,4361,4528,4994,5134,5796,6737,5738,6374,General Government,"Transport, and communication",21
+687,681,683,678,672,666,621,626,655,General Government,Resaearch and technical services,22
+46771,46731,46991,47062,46460,45722,44791,45080,45804,General government,Public administartion and defence,23
+58038,59279,63999,64968,64574,63658,66739,69447,73203,General Government,Education,24
+9946,10320,10529,10693,10890,11109,11191,11443,11741,General Government,Health and social work,25
+2181,2293,2323,2510,2747,2701,2520,2536,2626,General Government,Other services,26
+131212,133204,138654,140928,140951,140548,143470,146055,152117,General Government,Total value added at basic prices,27
+113148,112394,113895,130795,145143,161367,180855,189083,197187,General Government,Taxes less subsidies on products,28
+1020022,1025584,1055658,1109541,1175133,1249459,1336874,1357640,1392832,General Government,GDP at market prices,29
